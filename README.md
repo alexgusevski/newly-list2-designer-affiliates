@@ -68,6 +68,7 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 10. [**Sketch Cloud**](https://sketch.cloud/affiliates/) is a collaboration platform for Sketch users. Their affiliate program allows you to promote Sketch Cloud. Earn a commission for referred Sketch Cloud subscription sales.
 11.  [**Proto Pie**](https://www.go.protopie.io/affiliate) is a prototyping tool used for designing interactive and animated user interfaces. It allows designers and developers to create realistic and interactive prototypes without the need for extensive coding. Protopie is known for its ease of use and the ability to create complex interactions and animations by defining conditions and responses.
 12.  [**Framer**](https://www.framer.com/partners/) is a design and prototyping tool primarily used for creating interactive and animated user interfaces. Framer allows designers and developers to design high-fidelity prototypes with realistic interactions and animations.
+13. [**Newly**](https://newly.app/affiliates) lets designers turn prompts into functional native iOS and Android apps. Its affiliate program pays 60% of referred new customer revenue for their first 6 months, with a 30-day cookie.
 
 ### Web Design Software Affiliate Programs
 
